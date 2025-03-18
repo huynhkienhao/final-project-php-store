@@ -1,4 +1,4 @@
 Tiến độ làm đồ án
 - Link video làm đồ án: https://www.youtube.com/playlist?list=PL2WFgdVk-usF5q_zBoHCFeGEj7NCQ_YLq
 - Tên video: Online Book Store - Full PHP & MYSQL Project - Part 1
-- Đang thực hiện tới video số: 8:21
+- Đang thực hiện tới video số: 1, phút 15:03
