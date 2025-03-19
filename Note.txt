@@ -1,4 +1,11 @@
 Tiến độ làm đồ án
 - Link video làm đồ án: https://www.youtube.com/playlist?list=PL2WFgdVk-usF5q_zBoHCFeGEj7NCQ_YLq
-- Tên video: Online Book Store - Full PHP & MYSQL Project - Part 2
+- Tên video: Online Book Store - Full PHP & MYSQL Project - Part 3
 - Đang thực hiện tới video số: 00:00
+
+### LƯU Ý:
+ Tại video Part 2 có tạo folder uploads, và trong folder này có 2 folder nữa là cover và files.
+ Anh em truy cập đường link "https://www.aliceandbooks.com/book/crime-and-punishment/fyodor-dostoevsky/127"
+ Để tải hình ảnh và pdf về nhé !!!
+ À hình ảnh anh em để trong folder cover, pdf để trong folder files.
+ Và cuối cùng anh em nhớ tự tạo dữ liệu cho bảng Author, Category, ... đầy đủ nha !!!
